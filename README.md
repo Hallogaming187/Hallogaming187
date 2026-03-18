@@ -15,7 +15,7 @@
   
   - <img width="2%" src="512(1).gif">Goals:To earn Money  
 
-- <img href="https://tenor.com/de/view/smoke-pdr-gif-21471890">I’m currently learning **Smoke-Lineups in CS2**
+- <img href="https://tenor.com/de/view/smoke-pdr-gif-21471890" width="5%">I’m currently learning **Smoke-Lineups in CS2**
 
 - 👨‍💼All of my projects are available at Github
 
