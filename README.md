@@ -10,7 +10,9 @@
 <p>Information about miself</p>
 <ul>
   <li>Age: a number</li>
+  
   <li><img width="2%" src="512(3).gif">currently Job: Student</li>
+  
   <li><img width="2%" src="512(1).gif">goals:To earn Money  </li> 
 </ul>
 
