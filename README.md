@@ -1,6 +1,10 @@
 
 
 
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hallogaming187&label=Profile%20views&color=0e75b6&style=flat" alt="hallogaming187" /> </p>
 <h1 align="center">Hi <img width="3%" src="512.gif"> , I'm Michael (Fuß --> Foot)</h1>
 <h3 align="center">I am a programmer from Leopoldau</h3>
 <p>Information about miself</p>
@@ -9,9 +13,6 @@
   <li>currently Job: Student</li>
   <li>goals:To earn Money <img width="2%" src="512(1).gif"> </li> 
 </ul>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hallogaming187&label=Profile%20views&color=0e75b6&style=flat" alt="hallogaming187" /> </p>
 
 - 🌱 I’m currently learning **Smoke-Lineups in CS2**
 
