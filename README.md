@@ -8,13 +8,12 @@
 <h1 align="center">Hi <img width="3%" src="512.gif"> , I'm Michael (Fuß --> Foot<img width="2%" src="512(2).gif">)</h1>
 <h3 align="center">I am a programmer from Leopoldau</h3>
 <p>Information about miself</p>
-<ul>
-  <li>Age: a number</li>
+
+  - Age: a number</li>
   
-  <li><img width="2%" src="512(3).gif">currently Job: Student</li>
+  -<img width="2%" src="512(3).gif">currently Job: Student
   
-  <li><img width="2%" src="512(1).gif">goals:To earn Money  </li> 
-</ul>
+  -<img width="2%" src="512(1).gif">goals:To earn Money  
 
 - 🌱 I’m currently learning **Smoke-Lineups in CS2**
 
