@@ -6,5 +6,5 @@ I am a solo developing Student.
 <ul>
   <li>Age: a number</li>
   <li>currently Job: Student</li>
-  <li>goals:To earn Money <img width="3%" src="512.gif"> </li> 
+  <li>goals:To earn Money <img width="2%" src="512(1).gif"> </li> 
 </ul>
