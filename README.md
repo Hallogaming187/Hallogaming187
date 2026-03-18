@@ -1,4 +1,4 @@
-## Hi, I am Michael <img width="20%" src="512.gif">
+## Hi, I am Michael <img width="5%" src="512.gif">
 I am a solo developing Student.
 
 <!--
