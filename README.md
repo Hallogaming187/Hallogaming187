@@ -10,8 +10,8 @@
 <p>Information about miself</p>
 <ul>
   <li>Age: a number</li>
-  <li>currently Job: Student</li>
-  <li>goals:To earn Money <img width="2%" src="512(1).gif"> </li> 
+  <li><img width="2%" src="512(3).gif">currently Job: Student</li>
+  <li><img width="2%" src="512(1).gif">goals:To earn Money  </li> 
 </ul>
 
 - 🌱 I’m currently learning **Smoke-Lineups in CS2**
