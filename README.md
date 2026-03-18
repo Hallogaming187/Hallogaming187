@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Smoke-Lineups in CS2**
 
-- <a href="https://tenor.com/de/view/smoke-pdr-gif-21471890"> All of my projects are available at Github
+- <img src="https://tenor.com/de/view/smoke-pdr-gif-21471890"> All of my projects are available at Github
 
 - 💬 Ask me about **Anything I know**
 
