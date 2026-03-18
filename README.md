@@ -15,9 +15,10 @@
   
   - <img width="2%" src="512(1).gif">Goals:To earn Money  
 
-- 🌱 I’m currently learning **Smoke-Lineups in CS2**
+-   ![CsgoGIF](https://github.com/user-attachments/assets/27d990e8-dcd3-433c-a1ce-6ccd9ee3ef1d)
+ I’m currently learning **Smoke-Lineups in CS2**
 
-- <div class="tenor-gif-embed" data-postid="21471890" data-share-method="host" data-aspect-ratio="1.6" data-width="100%"><a href="https://tenor.com/view/smoke-pdr-gif-21471890">Smoke Pdr GIF</a>from <a href="https://tenor.com/search/smoke+pdr-gifs">Smoke Pdr GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> All of my projects are available at Github
+- 👨‍💼All of my projects are available at Github
 
 - 💬 Ask me about **Anything I know**
 
