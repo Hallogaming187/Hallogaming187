@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Smoke-Lineups in CS2**
 
-- <img src="https://tenor.com/de/view/smoke-pdr-gif-21471890"> All of my projects are available at Github
+- <div class="tenor-gif-embed" data-postid="21471890" data-share-method="host" data-aspect-ratio="1.6" data-width="100%"><a href="https://tenor.com/view/smoke-pdr-gif-21471890">Smoke Pdr GIF</a>from <a href="https://tenor.com/search/smoke+pdr-gifs">Smoke Pdr GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> All of my projects are available at Github
 
 - 💬 Ask me about **Anything I know**
 
