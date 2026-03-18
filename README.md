@@ -17,11 +17,11 @@
 
 - 🌱 I’m currently learning **Smoke-Lineups in CS2**
 
-- 👨‍💻 All of my projects are available at [Github]
+- <a href="https://tenor.com/de/view/smoke-pdr-gif-21471890"> All of my projects are available at Github
 
 - 💬 Ask me about **Anything I know**
 
-- 📄 Know about my experiences [In life](In life)
+- 📄 Know about my experiences in Life
 
 - ⚡ Fun fact **I have no aim**
 
