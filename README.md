@@ -10,13 +10,13 @@ I am a solo developing Student.
 </ul>
 
 <h1 align="center">Hi <img width="3%" src="512.gif"> , I'm Michael (Fuß --> Foot)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a programmer from Leopoldau</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallogaming187&label=Profile%20views&color=0e75b6&style=flat" alt="hallogaming187" /> </p>
 
 - 🌱 I’m currently learning **Smoke-Lineups in CS2**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github]
 
 - 💬 Ask me about **Anything I know**
 
