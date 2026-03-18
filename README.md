@@ -1,4 +1,4 @@
-## <strong>Hi, I am Michael <img width="3%" src="512.gif"><strong>
+
 I am a solo developing Student.
 <br>My Nickname is Hallogaming or Fuß <img width="3%" src="512(2).gif">
 <br>
@@ -9,7 +9,7 @@ I am a solo developing Student.
   <li>goals:To earn Money <img width="2%" src="512(1).gif"> </li> 
 </ul>
 
-<h1 align="center">Hi 👋, I'm Michael (Fuß --> Foot)</h1>
+<h1 align="center">Hi <img width="3%" src="512.gif"> , I'm Michael (Fuß --> Foot)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallogaming187&label=Profile%20views&color=0e75b6&style=flat" alt="hallogaming187" /> </p>
