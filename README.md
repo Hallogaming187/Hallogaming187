@@ -1,5 +1,5 @@
 ## Hi, I am Michael 👋
-I am solo developing Student.
+I am a solo developing Student.
 
 <!--
 Kommentar
